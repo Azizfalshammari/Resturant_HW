@@ -116,6 +116,8 @@ hr {
     top: 1200px;
 }
 h2 {
+    border-radius: 12px;
+    background-size: contain;
     background-color: bisque;
     display: inline-flex;
     margin-left: 20%;
