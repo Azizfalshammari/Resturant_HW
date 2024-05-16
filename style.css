@@ -1,6 +1,6 @@
 .first {
     position: relative;
-background-image: url(/soupHedar.jpg);
+background-image: url(soupHedar.jpg);
 background-repeat: no-repeat;
 background-position: center;
 background-size: cover;
@@ -60,7 +60,7 @@ h1 {
     position: relative;
 }
 .circleimg {
-    background-image: url(/suopimg.png);
+    background-image: url(suopimg.png);
     position: absolute;
     width:30%;
     height:100%;
@@ -73,7 +73,7 @@ h1 {
 
 .info1img {
 
-    background-image: url(/SoupInfo.png);
+    background-image: url(SoupInfo.png);
     position: absolute;
     width: 500px;
     height:200px;
@@ -86,7 +86,7 @@ h1 {
 }
 .info2img {
 
-    background-image: url(/cooking-info.png);
+    background-image: url(cooking-info.png);
     position: absolute;
     width: 500px;
     height:200px;
